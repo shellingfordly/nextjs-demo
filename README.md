@@ -2,13 +2,13 @@
 
 this is a nextjs demo, in order to learn ssr in react
 
-## 下载
+## download
 
 ```
 git clone  https://github.com/shellingfordly/nextjs-demo.git
 ```
 
-## 运行
+## run
 
 ```
 npm run dev
