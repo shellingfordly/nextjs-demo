@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+import Alert from "../../components/alert/alert";
 import Image from "next/image";
 
 const YourComponent = () => (
@@ -20,6 +20,9 @@ export default function FirstPost() {
           <a>Back to home</a>
         </Link>
       </h2>
+      <Alert type="success">
+        <h1>xxxxx</h1>
+      </Alert>
       <YourComponent />
     </>
   );
