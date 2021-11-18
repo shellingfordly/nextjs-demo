@@ -22,6 +22,7 @@ export default function FirstPost() {
       </h2>
       <Alert type="success">
         <h1>xxxxx</h1>
+        测试github-actions
       </Alert>
       <YourComponent />
     </>
